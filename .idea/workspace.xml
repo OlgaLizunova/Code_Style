@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9686c608-4076-4471-b178-367319387dc3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/DepositCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepositCalculator.java" afterDir="false" />
+    <list default="true" id="9686c608-4076-4471-b178-367319387dc3" name="Changes" comment="Задание для взаимной проверки">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,5 +49,9 @@
       <updated>1673692426023</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание для взаимной проверки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание для взаимной проверки" />
   </component>
 </project>
